@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Development/WireLayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5565e77f4f6c63d63c986e145a1502ecf6896d40">
+        <dex dex="/home/cawfree/Development/WireLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c7a40d76581e9c82327a293f6d38d47a92b2ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Development/WireLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/cawfree/Development/WireLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_857af2f6b227786aab56d3a95eaa140678dc2fb1/classes.dex" />
+    </item>
+
+</items>
